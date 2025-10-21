@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Automated Monitoring and Self-Healing for AWS Agent Services on EC2</b>
+- [Automated Monitoring and Self-Healing for AWS Agent Services on EC2](./projects/aws-agent-self-heal.md)
   - 
 
 
