@@ -4,14 +4,7 @@
 
 - <b>Automated Monitoring and Self-Healing for AWS Agent Services on EC2</b>
   - 
-- <b>Setup Virtual Active Directory Environment in Azure</b>
-  - 
-- <b>Create a File Integrity Monitor</b>
-  - 
-- <b>Create a Vulnerability Management Lab</b>
-  - 
-- <b>Build a Simple REST API</b>
-  -
+
 
 
 
