@@ -1,6 +1,6 @@
 <h1>Hi, I'm Darrel! <a href="https://www.linkedin.com/in/darrelwallace/">System Administrator and Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Automated Monitoring and Self-Healing for AWS Agent Services on EC2</b>
   - 
