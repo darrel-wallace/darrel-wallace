@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Setup SIEM in Azure</b>
+- <b>Automated Monitoring and Self-Healing for AWS Agent Services on EC2</b>
   - 
 - <b>Setup Virtual Active Directory Environment in Azure</b>
   - 
