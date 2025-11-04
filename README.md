@@ -1,4 +1,4 @@
-# Hi, I'm Darrel!
+# Hi,I'm Darrel!
 I'm a **System Administrator and Cybersecurity Professional** actively pivoting into a role as an **AI Cloud Engineer**.
 My portfolio focuses on practical, real-world projects that demonstrate my skills in automation, cloud architecture, and systems-level problem-solving. I am passionate about building, securing, and optimizing the infrastructure that powers modern AI and cloud-native applications.
 
@@ -16,4 +16,4 @@ Here are a few case studies of my work.
 * **Key Technologies:** AWS CloudFormation (IaC), AWS Lambda (Python), Amazon CloudWatch, Amazon SNS, AWS Systems Manager (SSM)
 
 ## 🤳 Connect with me:
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrelwallace/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darrelwallace)
