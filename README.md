@@ -5,10 +5,10 @@ My portfolio focuses on practical, real-world projects that demonstrate my skill
 ## 👨‍💻 Projects
 Here are a few case studies of my work.
 
-### 1. Hybrid AI Orchestration for Complex Research
-* **Project Link:** [View the Case Study](https://github.com/darrel-wallace/ai-agent-command-center)
-* **Summary:** Architected a "Senior/Junior" AI workflow to solve a complex research task. This system overcomes the individual cost and technical limits (session quotas, context windows) of modern AI models by orchestrating them into a single, resilient, and cost-effective process.
-* **Key Technologies:** Gemini CLI, Claude Code, Python, Git, Prompt Engineering, Systems Architecture
+### 1. AI-Agent Command Center (Hybrid AI Orchestration)
+* **Project Link:** **[View the Case Study](https://github.com/darrel-wallace/ai-agent-command-center)**
+* **Summary:** Architected a centralized "DevBox" (on Unraid with Docker & VS Code) and a serverless AWS AI agent (Phase 2). This system overcomes the individual cost and technical limits of modern AI models by orchestrating them into a single, resilient, and cost-effective workflow.
+* **Key Technologies:** AWS (SAM, Lambda, S3, API Gateway), Docker, Unraid, VS Code Remote, Gemini CLI, Claude Code, Python, Git.
 
 ### 2. Automated Monitoring & Self-Healing for AWS Agents
 * **Project Link:** [View the Case Study](https://github.com/darrel-wallace/aws-agent-self-heal)
